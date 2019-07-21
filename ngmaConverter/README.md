@@ -1,3 +1,2 @@
 # ngmaConRe-versionScript
-Conversion/Reversion Engine for custom NGMA shorthand via unicode
------------------------------------------------------
+## Conversion/Reversion Engine between Ngma & English via unicode!
